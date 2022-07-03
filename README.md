@@ -10,5 +10,7 @@
 
 - Atividade 1
     -  Soma de N termos pares/ímpares
+- Atividade 2
+    -  Tabuada
 
 _Observação_: A descrição de cada regra da atividade se encontra disponivel em cada arquivo.
