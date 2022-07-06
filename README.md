@@ -12,7 +12,9 @@
     -  Soma de N termos pares/ímpares
 - Atividade 2
     -  Tabuada
-- Atividade 2
+- Atividade 3
     -  Soma de X até Y de ordem decrescente 
+- Atividade 4
+    -  Número perfeito
 
 _Observação_: A descrição de cada regra da atividade se encontra disponivel em cada arquivo.
