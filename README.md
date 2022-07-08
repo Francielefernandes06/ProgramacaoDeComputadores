@@ -18,3 +18,7 @@
     -  Número perfeito
 
 _Observação_: A descrição de cada regra da atividade se encontra disponivel em cada arquivo.
+
+
+
+          
