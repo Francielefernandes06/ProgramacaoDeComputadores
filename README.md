@@ -16,6 +16,7 @@
     -  Soma de X até Y de ordem decrescente 
 - Atividade 4
     -  Número perfeito
+- Pasta sobre Tuplas
 
 _Observação_: A descrição de cada regra da atividade se encontra disponivel em cada arquivo.
 
