@@ -7,9 +7,9 @@ contador= 0
 dicionario = {}
 
 
-while contador < 10:
+while contador < 3:
     login = input("Digite o login: ")
-    senha = input("Digite a senha: ")
+    senha = int(input("Digite a senha: "))
     if login in dicionario:
         print("Login já existe")
     elif len(senha) < 6:

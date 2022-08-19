@@ -18,6 +18,7 @@
     -  Número perfeito
 - Pasta sobre Tuplas
 - Pasta sobre Dicionários
+- Pasta sobre Funções
 
 _Observação_: A descrição de cada regra da atividade se encontra disponivel em cada arquivo.
 
