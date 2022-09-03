@@ -19,8 +19,11 @@
 - Pasta sobre Tuplas
 - Pasta sobre Dicionários
 - Pasta sobre Funções
+- Pasta sobre a prova de funções
 
 _Observação_: A descrição de cada regra da atividade se encontra disponivel em cada arquivo.
+
+Ps: Fui aprovada na disciplina e estou muito feliz.
 
 
 
